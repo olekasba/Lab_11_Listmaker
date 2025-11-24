@@ -12,7 +12,7 @@ public class ListMaker {
 
 
 
-        //main
+        //main loop
 
         while (!quit) {
             funniMenu();
